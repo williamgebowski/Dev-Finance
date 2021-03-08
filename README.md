@@ -1,3 +1,3 @@
-# Starter
+# Meu primeiro projeto
 
-Primeiro GIT
+Calculadora para lidar com as finanças.
